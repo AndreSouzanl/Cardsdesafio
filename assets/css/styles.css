@@ -1,0 +1,27 @@
+:root{
+   --cor-bright-orange: #91630e;
+   --cor-dark-cyan: rgb(20, 110, 110);
+   --cor-very-dark-cyan:#044e4e;
+   --cor-very-light-gray:#d3d3d3;
+   --cor-transparent-white:#FFFFFF ;
+   }
+   body{
+       width: 100vh;
+       height: 100vh;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       font-size: 15px;
+       
+      }
+   
+   
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
